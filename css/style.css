@@ -1,0 +1,333 @@
+body{
+    background-color:rgb(50,50,50);
+    height:2450px;
+}
+
+.container1 {
+    width:900px;
+    margin:auto;
+    background:rgb(255,255,255);
+    height:100%;
+
+}
+
+.container {
+    width:700px;
+    margin:auto;
+}
+
+
+
+/* Start Header */
+
+.header .slider {
+    height:300px;
+    
+}
+
+.header .slider img {
+    width: 100%;
+    height: 300px;
+}
+
+
+
+.header .navbar {
+    background-color:rgb(40,40,40);
+    color:#FFF;
+    overflow:hidden;
+}
+.header .navbar h2{
+    float:left;
+    
+}
+.header .navbar h2 #span1{
+    margin-right:8px;
+    background-color:rgb(0,102,102);
+    color:white;
+    width:30px;
+    height:30px;
+    border-radius:50px;
+    display:inline-block;
+    text-align:center;
+    
+}
+
+.header .navbar h2 #span2{
+    color:rgb(0,102,102);
+    
+}
+
+.header .navbar ul {
+    list-style:none;
+    float:right;
+}
+
+
+.header .navbar ul li {
+    float:left;
+    padding-right:20px;
+}
+
+
+/* End Header */
+
+/* Start Section1 */
+
+.fatherDiv{
+    margin-top:30px;
+    overflow:hidden;
+    
+}
+
+.ChildDiv {
+    width:200px;
+    height:220px;
+    overflow:auto;
+    float:left;
+    padding-right:33px;
+}
+.ChildDiv h2{
+    font-family:cursive;
+}
+
+.ChildDiv p {
+    font-family:arial;
+    font-size:14px;
+}
+
+/*End Section1 */
+
+/* Start Section2 */
+
+
+.shrouk img {
+    width:35%;
+    height:420px;
+    float:left;
+    margin-bottom:50px;
+    
+}
+
+.aboutme{
+    background-color:rgb(232,232,232);
+    width:65%;
+    height:420px;
+    float:right;
+    margin-bottom:50px;
+   
+    
+}
+
+.aboutme h2{
+    font-family:cursive;
+    margin:20px;
+}
+
+.aboutme p {
+    margin-left:50px;
+    margin-bottom:20px;
+    margin-right:50px;
+    font-family:arial;
+    font-size:14px;
+}
+
+.one{
+    float:left;
+}
+.two{
+    float:right;
+    padding-right:50px;
+}
+.skills h2 #skillsSpan{
+    margin-right:10px;
+    background-color:rgb(0,102,102);
+    color:white;
+    width:30px;
+    height:30px;
+    border-radius:50px;
+    display:inline-block;
+    text-align:center;
+}
+
+.Sills{
+    padding-left:110px;
+    font-weight:bold;
+    color:rgb(0,102,102);
+}
+
+/* End Section2 */
+
+/* Start Section3 */
+.section3{
+    height:500px;
+}
+.mySkills{
+    float:left;
+    width:50%;
+
+}
+.mySkills h2{
+    font-family:cursive;
+}
+.mySkills p{
+    font-family:arial;
+    font-size:15px;
+}
+
+.myButton{
+    width:120px;
+    height:40px;
+    border-radius:30px;
+    border: rgb(0,102,102) 2px solid;
+    color: rgb(0,102,102);
+}
+.ratio{
+    float:right;
+    width:50%;
+}
+.ratio h4{
+    font-family:cursive;
+}
+.d{
+   background-color: rgb(232,232,232);
+   width:300px;
+   height:20px;
+}
+.d1{
+   background-color:rgb(0,102,102);
+   width:280px;
+   height:20px;
+   color: white;
+   text-align:right;
+}
+
+
+.d3{
+   background-color:rgb(0,102,102);
+   width:270px;
+   height:20px;
+   color: white;
+   text-align:right;
+}
+
+.d4{
+   background-color:rgb(0,102,102);
+   width:272px;
+   height:20px;
+   color: white;
+   text-align:right;
+}
+
+.d5{
+   background-color:rgb(0,102,102);
+   width:250px;
+   height:20px;
+   color: white;
+   text-align:right;
+}
+
+.d6{
+   background-color:rgb(0,102,102);
+   width:271px;
+   height:20px;
+   color: white;
+   text-align:right;
+}
+
+/* End Section3 */
+
+/* Start Section4 */
+.section4Father{
+    height:200px;
+    border-radius:100px;
+    border: rgb(0,102,102) 2px solid; 
+    background-color:rgb(50,50,50);
+    color:white;
+    margin-top:430px;
+}
+
+.section4Father h2{
+    font-family:cursive;
+    text-align:center;
+}
+.section4Father p{
+    font-family:arial;
+    font-size:18px;
+    text-align:center;
+}
+.section4Father .myButton{
+    margin-left:380px;
+
+}
+
+/* End Section4 */
+
+
+/* Start Section5 */
+
+.section5Father{
+    height:200px;
+    border-radius:100px;
+    border: rgb(0,102,102) 2px solid; 
+    background-color:rgb(50,50,50);
+    color:white;
+    margin-top:100px;
+    
+}
+
+.section5Father h2{
+    font-family:cursive;
+    text-align:center;
+}
+.section5Father p{
+    font-family:arial;
+    font-size:18px;
+    text-align:center;
+}
+.section5Father .myButton{
+    margin-left:380px;
+
+}
+
+/* End Section5 */
+
+/* Start Section6 */
+
+.section6Father{
+    height:270px;
+    background-color:rgb(50,50,50);
+    margin-top:100px;
+    border: rgb(0,102,102) 2px solid;
+    border-radius:100px;
+}
+
+.section6Father .myInfo{
+    float:left;
+    width:50%;
+    color:white;    
+}
+.section6Father .myInfo h1{
+    font-family:cursive;
+}
+.section6Father .myInfo span{
+    font-weight:bold;
+    font-size:20px;
+}
+.section6Father .myInfo p{
+    font-family:arial;
+    font-size:16px;
+}
+
+.section6Father .form{
+    float:right;
+    width:50%;
+    color:white;
+    margin-top:30px;
+    
+}
+.section6Father .form label{
+    font-weight:bold;
+    font-size:20px;
+}
+/* End Section6 */
