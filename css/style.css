@@ -1,6 +1,6 @@
 body{
     background-color:rgb(50,50,50);
-    height:2450px;
+    height:2400px;
 }
 
 .container1 {
@@ -184,7 +184,7 @@ body{
 }
 .ratio{
     float:right;
-    width:50%;
+    width:38%;
 }
 .ratio h4{
     font-family:cursive;
@@ -240,9 +240,8 @@ body{
 /* Start Section4 */
 .section4Father{
     height:200px;
-    border-radius:100px;
-    border: rgb(0,102,102) 2px solid; 
-    background-color:rgb(50,50,50);
+    border: 2px solid; 
+    background-color:rgb(0,102,102);
     color:white;
     margin-top:430px;
 }
@@ -268,11 +267,10 @@ body{
 
 .section5Father{
     height:200px;
-    border-radius:100px;
-    border: rgb(0,102,102) 2px solid; 
-    background-color:rgb(50,50,50);
+    background-color:rgb(0,102,102);
     color:white;
     margin-top:100px;
+    border: 2px solid; 
     
 }
 
@@ -286,7 +284,7 @@ body{
     text-align:center;
 }
 .section5Father .myButton{
-    margin-left:380px;
+    margin-left:390px;
 
 }
 
@@ -296,10 +294,10 @@ body{
 
 .section6Father{
     height:270px;
-    background-color:rgb(50,50,50);
+    background-color:rgb(0,102,102);
     margin-top:100px;
-    border: rgb(0,102,102) 2px solid;
-    border-radius:100px;
+    border: white 2px solid; 
+
 }
 
 .section6Father .myInfo{
@@ -321,7 +319,7 @@ body{
 
 .section6Father .form{
     float:right;
-    width:50%;
+    width:30%;
     color:white;
     margin-top:30px;
     
